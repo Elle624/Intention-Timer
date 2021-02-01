@@ -36,5 +36,5 @@ Shows limiting time inputs to numbers only, and local storage:
 
 ## Credits
 Aaron Townsend: https://github.com/atownse
-Elle Li: https://github.com/Elle624
+Elle Li: https://github.com/yiranli624
 Sarah Osgood: https://github.com/saraho1123
